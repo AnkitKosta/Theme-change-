@@ -1,5 +1,4 @@
- 
-  var darkMode = false;
+var darkMode = false;
 
     function dark() {
       var body = document.body;
